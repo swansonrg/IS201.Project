@@ -1,3 +1,59 @@
 body {
     background-color: antiquewhite;
 }
+
+.resumefont {
+    font-style: italic; 
+}
+
+.myinterestspictures {
+    font-style: normal;
+}
+
+.tableautitle{
+  color: rosybrown;
+  font-size: medium;
+  font-style: italic;
+  text-align: center;
+}
+
+.tableaunormal{
+  color: black;
+  font-style: normal;
+  font-family: Luminari, fantasy;
+}
+
+.tableauheader{
+  text-align: center;
+  color: black;
+  font-family:  Snell Roundhand, cursive;
+  font-style: normal;
+}
+
+a:link {
+    color: lightskyblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  
+
+
